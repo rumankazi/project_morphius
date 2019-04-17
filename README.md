@@ -7,6 +7,3 @@ Here you will find the required code files, design files, assembly and respectiv
 
 The project is still in progress.
 Follow us on youtube: https://www.youtube.com/channel/UCsKmAn2daWavVmRRQK_fTjw
-
-
-![aruoco_detect](https://user-images.githubusercontent.com/37704746/56277180-8124d300-6121-11e9-96f6-32cac67adeb6.png) 

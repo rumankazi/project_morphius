@@ -5,5 +5,5 @@ An open source project under the guidance of Prof. Dr. Preetida V. Jani.
 
 Here you will find the required code files, design files, assembly and respective instructions.
 
-The project is still in progress.
+
 Follow us on youtube: https://www.youtube.com/channel/UCsKmAn2daWavVmRRQK_fTjw
